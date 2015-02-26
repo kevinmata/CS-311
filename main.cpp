@@ -1,3 +1,12 @@
+//===========================================================
+// Kevin Mata
+// Compiler: g++
+// Description: This program will take 3 integers from the user and place them into a vector L1,
+//and will prompt the user for 3 more integers and place them into L2. 
+//Then we call a function in order to combine ans sort the intgers in 
+//the vector in ascending order using merge sort.
+//===========================================================
+
 #include    <iostream>
 #include    <stdexcept>
 #include    <vector>
